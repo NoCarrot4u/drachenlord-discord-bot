@@ -3,6 +3,6 @@ services:
   drachenlord:
     build: .
     environment:
-      DISCORD_API_TOKEN: <your-discord-api-token>
+      DISCORD_API_TOKEN: <MTIzMDg2MzI5NTAyNDcyNjAyNg.G3LrMb.Ue68TSUfUGu-K0mnaPX9pCpROEopneEe0rhXG0>
       ENABLE_RANDOM_JOINS: "True"
       LOGGING_CHANNEL: <your-logging-textchannel-id-as-integer>
